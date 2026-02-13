@@ -39,7 +39,7 @@ dependencies {
     implementation(libs.appcompat)
     implementation(libs.material)
     implementation(libs.activity)
-    //implementation(files("C:/Users/antis/AppData/Local/Android/Sdk/platforms/android-36.1/android.jar"))
+    implementation(files("C:/Users/antis0007/AppData/Local/Android/Sdk/platforms/android-36.1/android.jar"))
     implementation(libs.constraintlayout)
     testImplementation(libs.junit)
     testImplementation("org.junit.jupiter:junit-jupiter-api:5.0.1")
